@@ -12,3 +12,7 @@
 [27-Feb-2026 17:30:28 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/cd-wordpress/.wordpress/wp-includes/class-wp-admin-bar.php on line 669
 [27-Feb-2026 17:35:44 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/cd-wordpress/.wordpress/wp-includes/class-wp-admin-bar.php on line 671
 [27-Feb-2026 17:36:17 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/cd-wordpress/.wordpress/wp-includes/class-wp-admin-bar.php on line 671
+[27-Feb-2026 18:56:00 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 36864 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/includes/admin.php on line 91
+[27-Feb-2026 18:56:06 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/includes/user.php on line 416
+[27-Feb-2026 18:56:13 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/includes/user.php on line 416
+[27-Feb-2026 18:56:16 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 32768 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/includes/user.php on line 416
